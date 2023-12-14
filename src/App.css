@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+ 
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-image: url("D:\reactDemo\project1\src\components\Capture_HAckathon_wordpress.jpg"); 
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgba(247, 249, 249, 0.918);
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.5px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.appim
+{
+  /* background-image: url("D:\reactDemo\project1\src\components\Capture_HAckathon_wordpress.jpg");  */
+  background-size: cover
+  ;
+}

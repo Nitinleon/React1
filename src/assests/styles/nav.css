@@ -1,0 +1,27 @@
+nav{
+    position: relative;
+    margin-bottom: 250px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+}
+li:hover:not(.active){
+    background-color: rgb(255, 253, 253);
+    color: rgba(223, 243, 5, 0.601);
+}
+.active{
+    background-color: rgb(251, 250, 250);
+    padding-right: 10px;
+}
+.link{
+    margin-right: 100 px;
+    padding: 10px;
+    text-decoration: none;
+}
+.a{
+    margin-top: 200px;
+}
