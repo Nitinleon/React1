@@ -1,0 +1,18 @@
+body {
+    background-image: url('./dog3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .lable{
+    text-align:left;
+    width:90%;
+    margin-top: 5px;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-weight  bold;
+    position: relative;
+    left: 200px;
+  }
+  a{
+    color:white;
+  }
